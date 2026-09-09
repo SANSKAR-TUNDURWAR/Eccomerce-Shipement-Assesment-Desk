@@ -32,7 +32,7 @@ An automated logistics exception management system powered by **LangChain**, **G
 
 ## Project Flow 
 ```
-[ Customer Damage Report ]
+                        [ Customer Damage Report ]
                                     │
                                     ▼
                          [ Classify Chain (LLM) ]
